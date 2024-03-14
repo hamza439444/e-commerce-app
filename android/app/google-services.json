@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982770271860",
+    "project_id": "lapify-fce82",
+    "storage_bucket": "lapify-fce82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982770271860:android:91ff566eb26d57c7f47321",
+        "android_client_info": {
+          "package_name": "com.Lapify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982770271860-718nji30dvkdag4fmuunfhgl2keiihfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipvdQo5Hre0vAnELKFVIQzb11gB0HiM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982770271860-718nji30dvkdag4fmuunfhgl2keiihfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
